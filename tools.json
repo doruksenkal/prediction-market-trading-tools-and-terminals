@@ -6098,7 +6098,7 @@
     "name": "Glypse",
     "url": "https://glypse.ai/",
     "category": "Analytics & Whale Tracking",
-    "description": "Free research and analytics for Polymarket and Kalshi, combining a market screener, event briefings, social sentiment analysis, and a custom-pair arbitrage scanner.",
+    "description": "Free research and analytics for prediction markets, combining a market screener, event briefings, social sentiment analysis, and a custom-pair arbitrage scanner.",
     "venues": [
       "Polymarket",
       "Kalshi"
